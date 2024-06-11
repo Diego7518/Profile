@@ -90,3 +90,17 @@
 .project-info p {
     font-size: 12px;
 }
+
+hr{
+    background-color:lime;
+    height: 10px;
+    margin-bottom: 14px;
+}
+.ref1{
+    border: 2px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    margin-bottom: 19px;
+}
